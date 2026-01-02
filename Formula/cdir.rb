@@ -1,8 +1,8 @@
 class Cdir < Formula
     desc "cdir allows you to quickly navigate to a directory recorded into your history"
     homepage "https://github.com/AmadeusITGroup/cdir"    
-    url "https://github.com/AmadeusITGroup/cdir/releases/download/v0.0.8/cdir-aarch64-apple-darwin.tar.gz"
-    sha256 "d368f276526009b6e06792c87067a3399179c17487e80f3f6a647b8fd5b68cf6"
+    url "https://github.com/AmadeusITGroup/cdir/releases/download/v0.0.9/cdir-aarch64-apple-darwin.tar.gz"
+    sha256 "44148a02a6a42dbc1f701eac2c650709df9c14753582f2f7f3a32434be44928c"
     license "Apache-2.0 license"
 
 
